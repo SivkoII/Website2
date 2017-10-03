@@ -17,5 +17,7 @@ html {
   -o-background-size: cover;
   background-size: cover;
   font-family: Tahoma, Geneva,sans-serif
+      max-width: 100%;
+	height: auto;
 }
    
