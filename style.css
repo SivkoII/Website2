@@ -1,9 +1,11 @@
 h1 {
     color:black;
+    font-size: 300%
 }
 body {
     color:black;
     text-align:center;
+    font-size:200%;
     background-image:url(Background.png.jpg);
     background-repeat:   no-repeat;
     background-size:     cover;  
